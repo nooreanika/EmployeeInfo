@@ -1,9 +1,18 @@
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\bin\Debug\EmployeeInfoAppMay6.exe.config
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.csprojResolveAssemblyReference.cache
-G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.Form1.resources
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.Properties.Resources.resources
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.csproj.GenerateResource.Cache
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\bin\Debug\EmployeeInfoAppMay6.exe
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\bin\Debug\EmployeeInfoAppMay6.pdb
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.exe
 G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.pdb
+G:\muna\myClassWork(15-29)\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.EmployeeInfoUI.resources
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\bin\Debug\EmployeeInfoAppMay6.exe.config
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.exe
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.pdb
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\bin\Debug\EmployeeInfoAppMay6.exe
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\bin\Debug\EmployeeInfoAppMay6.pdb
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.csprojResolveAssemblyReference.cache
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.EmployeeInfoUI.resources
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.Properties.Resources.resources
+F:\Dot net class work files\ClassTaskSolution\EmployeeInfoAppMay6\EmployeeInfoAppMay6\obj\Debug\EmployeeInfoAppMay6.csproj.GenerateResource.Cache
